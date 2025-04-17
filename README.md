@@ -1,4 +1,4 @@
-#Bot de Networking para LinkedIn
+# Bot de Networking para LinkedIn
 
 Este projeto automatiza o envio de convites no LinkedIn com base em uma palavra-chave definida pelo usuário. Ele utiliza **Python + Selenium** para controlar o navegador e possui uma **interface gráfica com Tkinter** para facilitar o uso.
 
