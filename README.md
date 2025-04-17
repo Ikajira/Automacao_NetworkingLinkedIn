@@ -63,3 +63,5 @@ python bot_linkedin_interface.py
 - Agendamento automático
 - Registro de erros em log externo
 
+## ✍️ Autor <a name = "autor"></a>
+- [@Ikajira](https://github.com/Ikajira) - Ideia & desenvolvimento do programa.
