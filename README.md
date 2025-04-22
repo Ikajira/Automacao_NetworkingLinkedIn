@@ -24,6 +24,7 @@ Este projeto automatiza o envio de convites no LinkedIn com base em uma palavra-
   pip install selenium
 
 ## 🧪  Como Usar? <a name = "como_usar"></a>
+>Antes de executar o arquivo "salvar_cookies.py" tenha em mãos seu email e senha de acesso do linkedin, você tem por padrão 30 segundos para efetuar o login, caso esteja enfrentando dificuldades, altere a linha 8 desse mesmo arquivo para "sleep(60)", agora você terá 60 segundos para efetuar o login. Lembre-se que o programa não é um humano, espere ele fechar sozinho após os segudos designados.
 ### 1° Salvar os cookies de login (Execute este script e faça login manual no LinkedIn):
 ```bash
 python salvar_cookies.py
