@@ -44,9 +44,9 @@ python salvar_cookies.py
 ```bash
 python bot_linkedin_interface.py
 ```
-1. Interface amigável com inputs para palavra-chave e limite de convites
-2. Exibe logs em tempo real
-3. Ideal para quem prefere não usar o terminal
+1. Insira dentro dos inputs "palavra-chave" e "limite de convites" as informações desejadas.
+2. Clique no botão "Executar".
+3. Observe o processo na caixa de log.
 
 ## 🛡️ Recursos Extras
 - 1° Evita perfis repetidos usando visitados.json
