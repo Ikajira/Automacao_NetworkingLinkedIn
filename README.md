@@ -59,7 +59,6 @@ python bot_linkedin_interface.py
 
 ## 🧠 Ideias Futuras
 - Suporte a múltiplas páginas
-- Enviar mensagem personalizada com convite
 - Agendamento automático
 - Registro de erros em log externo
 
